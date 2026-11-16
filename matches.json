@@ -1,0 +1,272 @@
+[
+  {
+    "match_date": "3.7",
+    "weekday": "六",
+    "kickoff": "17:00",
+    "home": "上海申花",
+    "away": "大连英博海发",
+    "venue": "上海体育场",
+    "city": "上海"
+  },
+  {
+    "match_date": "3.13",
+    "weekday": "五",
+    "kickoff": "19:35",
+    "home": "武汉三镇",
+    "away": "大连英博海发",
+    "venue": "武汉体育中心体育场",
+    "city": "武汉"
+  },
+  {
+    "match_date": "3.20",
+    "weekday": "五",
+    "kickoff": "19:00",
+    "home": "大连英博海发",
+    "away": "上海海港",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "4.4",
+    "weekday": "六",
+    "kickoff": "19:00",
+    "home": "山东泰山",
+    "away": "大连英博海发",
+    "venue": "济南奥体中心体育场",
+    "city": "济南"
+  },
+  {
+    "match_date": "4.10",
+    "weekday": "五",
+    "kickoff": "19:35",
+    "home": "大连英博海发",
+    "away": "浙江俱乐部",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "4.18",
+    "weekday": "六",
+    "kickoff": "19:00",
+    "home": "大连英博海发",
+    "away": "河南俱乐部",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "4.22",
+    "weekday": "三",
+    "kickoff": "19:35",
+    "home": "辽宁铁人",
+    "away": "大连英博海发",
+    "venue": "沈阳铁西体育场",
+    "city": "沈阳"
+  },
+  {
+    "match_date": "4.26",
+    "weekday": "日",
+    "kickoff": "19:35",
+    "home": "大连英博海发",
+    "away": "云南玉昆",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "5.1",
+    "weekday": "五",
+    "kickoff": "19:00",
+    "home": "大连英博海发",
+    "away": "重庆铜梁龙",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "5.6",
+    "weekday": "三",
+    "kickoff": "19:35",
+    "home": "北京国安",
+    "away": "大连英博海发",
+    "venue": "北京工人体育场",
+    "city": "北京"
+  },
+  {
+    "match_date": "5.10",
+    "weekday": "日",
+    "kickoff": "19:00",
+    "home": "青岛海牛",
+    "away": "大连英博海发",
+    "venue": "青岛青春足球场",
+    "city": "青岛"
+  },
+  {
+    "match_date": "5.15",
+    "weekday": "五",
+    "kickoff": "20:00",
+    "home": "大连英博海发",
+    "away": "青岛西海岸",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "5.19",
+    "weekday": "二",
+    "kickoff": "19:35",
+    "home": "深圳新鹏城",
+    "away": "大连英博海发",
+    "venue": "深圳市体育中心体育场",
+    "city": "深圳"
+  },
+  {
+    "match_date": "5.23",
+    "weekday": "六",
+    "kickoff": "20:00",
+    "home": "大连英博海发",
+    "away": "成都蓉城",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "5.31",
+    "weekday": "日",
+    "kickoff": "19:00",
+    "home": "天津津门虎",
+    "away": "大连英博海发",
+    "venue": "天津泰达足球场",
+    "city": "天津"
+  },
+  {
+    "match_date": "6.28",
+    "weekday": "日",
+    "kickoff": "19:00",
+    "home": "大连英博海发",
+    "away": "上海申花",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "7.4",
+    "weekday": "六",
+    "kickoff": "19:35",
+    "home": "大连英博海发",
+    "away": "武汉三镇",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "7.12",
+    "weekday": "日",
+    "kickoff": "19:35",
+    "home": "上海海港",
+    "away": "大连英博海发",
+    "venue": "上汽浦东足球场",
+    "city": "上海"
+  },
+  {
+    "match_date": "7.18",
+    "weekday": "六",
+    "kickoff": "19:35",
+    "home": "大连英博海发",
+    "away": "山东泰山",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "7.26",
+    "weekday": "日",
+    "kickoff": "20:00",
+    "home": "浙江俱乐部",
+    "away": "大连英博海发",
+    "venue": "浙江省黄龙体育中心体育场",
+    "city": "杭州"
+  },
+  {
+    "match_date": "7.31",
+    "weekday": "五",
+    "kickoff": "19:35",
+    "home": "河南俱乐部",
+    "away": "大连英博海发",
+    "venue": "郑州航海体育场",
+    "city": "郑州"
+  },
+  {
+    "match_date": "8.8",
+    "weekday": "六",
+    "kickoff": "19:35",
+    "home": "大连英博海发",
+    "away": "辽宁铁人",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "8.15",
+    "weekday": "六",
+    "kickoff": "20:00",
+    "home": "云南玉昆",
+    "away": "大连英博海发",
+    "venue": "云南玉溪高原体育运动中心体育场",
+    "city": "玉溪"
+  },
+  {
+    "match_date": "8.23",
+    "weekday": "日",
+    "kickoff": "20:00",
+    "home": "重庆铜梁龙",
+    "away": "大连英博海发",
+    "venue": "重庆龙兴足球场",
+    "city": "重庆"
+  },
+  {
+    "match_date": "8.28",
+    "weekday": "五",
+    "kickoff": "19:35",
+    "home": "大连英博海发",
+    "away": "北京国安",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "9.5",
+    "weekday": "六",
+    "kickoff": "19:35",
+    "home": "大连英博海发",
+    "away": "青岛海牛",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "10.11",
+    "weekday": "日",
+    "kickoff": "18:00",
+    "home": "青岛西海岸",
+    "away": "大连英博海发",
+    "venue": "青岛西海岸大学城体育场",
+    "city": "青岛"
+  },
+  {
+    "match_date": "10.17",
+    "weekday": "六",
+    "kickoff": "19:00",
+    "home": "大连英博海发",
+    "away": "深圳新鹏城",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  },
+  {
+    "match_date": "10.24",
+    "weekday": "六",
+    "kickoff": "15:30",
+    "home": "成都蓉城",
+    "away": "大连英博海发",
+    "venue": "五粮液文体中心足球场",
+    "city": "成都"
+  },
+  {
+    "match_date": "11.08",
+    "weekday": "日",
+    "kickoff": "15:30",
+    "home": "大连英博海发",
+    "away": "天津津门虎",
+    "venue": "大连梭鱼湾足球场",
+    "city": "大连"
+  }
+]
